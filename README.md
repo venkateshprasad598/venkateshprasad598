@@ -4,5 +4,4 @@ I'm Venkatesh Prasad from Bangalore, and I build cool web apps. I really enjoy l
 
 Skills: REACT / JS / HTML / CSS
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=venkateshprasad598&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=venkateshprasad598)  
